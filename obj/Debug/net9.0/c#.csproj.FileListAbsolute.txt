@@ -26,3 +26,4 @@ D:\UMAIR\New folder\C_SHARP\obj\Debug\net9.0\refint\c#.dll
 D:\UMAIR\New folder\C_SHARP\obj\Debug\net9.0\c#.pdb
 D:\UMAIR\New folder\C_SHARP\obj\Debug\net9.0\c#.genruntimeconfig.cache
 D:\UMAIR\New folder\C_SHARP\obj\Debug\net9.0\ref\c#.dll
+D:\UMAIR\New folder\C_SHARP\obj\Debug\net9.0\c#.sourcelink.json
