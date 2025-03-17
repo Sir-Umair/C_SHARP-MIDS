@@ -28,3 +28,23 @@
 //     Console.WriteLine(i);
 // }
 
+// using System;
+
+// class Program {
+//     static void Main() {
+//         Console.Write("Enter size: ");
+//         int size = Convert.ToInt32(Console.ReadLine());
+
+//         int[] a = new int[size];
+
+//         for (int i = 0; i < size; i++) {  // Fixed `i <= size` → `i < size`
+//             Console.Write($"Enter element at index {i}: ");
+//             a[i] = Convert.ToInt32(Console.ReadLine());  // Fixed wrong indexing
+//         }
+
+//         Console.WriteLine("Array elements:");
+//         foreach (int element in a) {  // Fixed incorrect foreach usage
+//             Console.WriteLine(element);
+//         }
+//     }
+// }
